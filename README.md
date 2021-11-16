@@ -1,4 +1,4 @@
-# Visualizing popularity over time for TV shows during the pandemic
+# Visualizing popularity over time for TV shows released during the pandemic
 
 ##em
 
