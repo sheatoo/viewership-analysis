@@ -1,4 +1,4 @@
-# Visualizing popularity over time for TV shows released during the pandemic
+# Visualizing viwership for TV shows released during the pandemic
 
-## em
+## Findings: Nunn, Alistair_417 project report.pdf
 
