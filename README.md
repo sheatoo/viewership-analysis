@@ -18,8 +18,10 @@ For analysis purposes, only the columns containing the tweet ID, date created, t
 
 It’s important to note that for Figures 1 and  2, the time series spans up to 5 months after the original release date, while the time span for Figure 2 is up to a year.
 
-As you can see, the shows had varying levels of engagement, demonstrated by the maximum tweets per day for each series. The maximum for The Mandalorian is over 40,000 tweets, while Umbrella Academy and Queen’s Gambit have 20,000 and 7,000, respectively. This means that of the three surveyed, The Mandalorian is by far the most popular and has the greatest amount of engagement.
+As you can see, the shows had varying levels of engagement, demonstrated by the maximum tweets per day for each series. The maximum for The Mandalorian is over 40,000 tweets, while Umbrella Academy and Queen’s Gambit have 20,000 and 7,000, respectively. This means that of the three surveyed, The Mandalorian is by far the most popular and had the greatest amount of engagement.
 
+Figure 1: _The Mandalorian_ (2019) number of tweets per day
+<img width="812" height="459" alt="image" src="https://github.com/user-attachments/assets/f984107f-c68d-4373-bdd0-a1101efba4eb" />
 
 As seen in Figure 1, the greatest number of tweets were tweeted on the initial release date, with small spikes in engagement leading up to the last episode, which had a volume of tweets more similar to the release date. However, following the last episode, the number of tweets per day dropped significantly and leveled out just after the end of January.
 
@@ -27,9 +29,15 @@ Taking a closer look, it was found that the average number of tweets per day in 
 
 Looking at the graph alone, engagement for The Mandalorian seems in line with what would be expected before Covid-19, with most of the engagement occurring during the show run and dropping during the off-seasons.
 
+Figure 2: _Umbrella Academy_(2019) number of tweets per day
+<img width="828" height="460" alt="image" src="https://github.com/user-attachments/assets/70d397ac-db33-4df0-b9a0-524ad91cfc8d" />
+
 Similarly to Figure 1, Umbrella Academy had the highest engagement closer to its original release date, but engagement drops exponentially over the next 3 months. This can be explained by the fact that both Umbrella Academy and The Queen’s Gambit are produced by Netflix, which releases the episodes all at once, while The Mandalorian is distributed by Disney, which releases episodes on a weekly schedule. 
 
 Since this show was released pre-COVID, it makes sense that it has less engagement as time goes on, but there is a spike in April 2019, which would be interesting to examine later. Overall, I believe the results from this show would be a good benchmark for normal engagement, and it would be interesting to compare with engagement for the second season, which was released in the summer of 2020.
+
+Figure 3: _The Queen's Gambit_ (2020) number of tweets per day
+<img width="845" height="476" alt="image" src="https://github.com/user-attachments/assets/63b47e92-0749-422f-aeb0-1d674a8ebcc8" />
 
 Unlike the other shows surveyed, The Queen’s Gambit (2020) - released in late October of 2020 - had the highest engagement a month after its initial release. It shows similar results to Umbrella Academy in that there is continuous engagement for the first couple of months after its release, with numbers dipping as time goes on.
 
