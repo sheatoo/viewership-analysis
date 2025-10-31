@@ -1,5 +1,13 @@
 # Visualizing viewership for TV shows released from 2019-2021
 
+## Update 2025
+I conducted topic modeling on the data collected for The Mandalorian (2019).  
+Jupyter Notebook: [code/mandalorian-topic-model.ipynb](https://github.com/sheatoo/viewership-analysis/blob/daa3f5c58e1ae509300f3e0619bb1fc11b8f32db/code/mandalorian-topic-model.ipynb)  
+Results: [results/mandalorian_topics.html](https://github.com/sheatoo/viewership-analysis/blob/daa3f5c58e1ae509300f3e0619bb1fc11b8f32db/results/mandalorian_topics.html)  
+
+Further analysis is pending.
+
+# Original Content
 ## Findings: [Nunn, Alistair_417 project report.pdf](https://github.com/chippedtoe/project417/blob/0e1f77568519b8edd7f3060bda3b89e47efc3a0a/Nunn%2C%20Alistair_417%20project%20report.pdf)
 
 ## Scope
@@ -46,7 +54,7 @@ Two interesting spikes occurred in January and February of 2021. From the data, 
 ## Conclusion
 From my results, I was unable to determine whether COVID impacted TV show popularity over time. All shows surveyed had high engagement around their initial release, with lower engagement in the following months. Future research would benefit from including subsequent seasons and comparing engagement within and across shows during the height of COVID (spring to summer 2020).
 
-Further analysis in topic modeling would lend more information as to what people are discussing about each show, and using the geo-location of each tweet could give insight into worldwide popularity.
+Further analysis in topic modeling would lend more information as to what people are discussing about each show, and using the geo-location of each tweet could give insight into worldwide popularity. 
 
 ## References
 1. Agate, B. (2021, April 13).The Impact COVID-19 Had On The Entertainment Industry In
