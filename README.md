@@ -1,11 +1,17 @@
 # Visualizing viewership for TV shows released from 2019-2021
 
 ## Update 2025
-I conducted topic modeling on the data collected for The Mandalorian (2019).  
-Jupyter Notebook: [code/mandalorian-topic-model.ipynb](https://github.com/sheatoo/viewership-analysis/blob/daa3f5c58e1ae509300f3e0619bb1fc11b8f32db/code/mandalorian-topic-model.ipynb)  
-Results: [results/mandalorian_topics.html](https://github.com/sheatoo/viewership-analysis/blob/daa3f5c58e1ae509300f3e0619bb1fc11b8f32db/results/mandalorian_topics.html)  
+I have implemented a ETL and ML pipeline with the data collected for The Mandalorian (2019).
 
-Further analysis is pending.
+The pipeline transforms raw JSON data into an ML-ready format, equipping Natural Language Processing (NLP) with spaCy for efficient cleaning, tokenization, and lemmatization. The cleaned data is represented in a Pandas dataframe with three columns, content (pre-processed tweets), tokens (tweet tokens) and strings (lemmatized tweets). 
+
+<img width="1059" height="273" alt="image" src="https://github.com/user-attachments/assets/8019c835-0ba2-419c-9339-e66fe217f814" />
+
+The cleaned data then feeds into a topic model built with Gensim and visualized through PyLDAVis. Available here: https://tinyurl.com/sheatoo
+
+Further analysis incorporating n-grams, top-n words, and hyperparameter tuning is pending.
+
+Jupyter Notebook: [code/mandalorian-topic-model.ipynb](https://github.com/sheatoo/viewership-analysis/blob/daa3f5c58e1ae509300f3e0619bb1fc11b8f32db/code/mandalorian-topic-model.ipynb)   
 
 # Original Content
 ## Findings: [Nunn, Alistair_417 project report.pdf](https://github.com/chippedtoe/project417/blob/0e1f77568519b8edd7f3060bda3b89e47efc3a0a/Nunn%2C%20Alistair_417%20project%20report.pdf)
